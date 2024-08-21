@@ -7,3 +7,8 @@ This is a starter project for my tutorial:
 View the [commits page](https://github.com/bizz84/bmi_calculator_app_flutter/commits/master) to get the initial and finished code.
 
 ### [LICENSE: MIT](LICENSE.md)
+
+  bmi:
+    git:
+      url: https://github.com/Mlungisi93/bmi_calculator_packages_andrea
+      path: packages/bmi
